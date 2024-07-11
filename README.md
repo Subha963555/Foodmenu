@@ -1,4 +1,4 @@
-# Deplyment Link
+# Deployment Link
 https://foodmenuforallo.netlify.app/
 
 # Getting Started with Create React App
